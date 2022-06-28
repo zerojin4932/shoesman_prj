@@ -8,7 +8,7 @@ Spring Boot  Gradle
 2.Version
 2.7.1
 
-3.개발 언어
+3.Language
 Java 11
 
 4.Template Engine
